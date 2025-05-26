@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "713717631420",
+    "firebase_url": "https://segundobim-90afc-default-rtdb.firebaseio.com",
+    "project_id": "segundobim-90afc",
+    "storage_bucket": "segundobim-90afc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713717631420:android:2af20f116f5858de3843b9",
+        "android_client_info": {
+          "package_name": "com.example.a2bim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnV9HxK9U4IlER__HV-m6nB4qkoRaEE-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713717631420:android:5b476a86951344923843b9",
+        "android_client_info": {
+          "package_name": "com.example.projetobruno2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnV9HxK9U4IlER__HV-m6nB4qkoRaEE-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713717631420:android:f00ce8d25f2c287e3843b9",
+        "android_client_info": {
+          "package_name": "com.example.segundobim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnV9HxK9U4IlER__HV-m6nB4qkoRaEE-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
